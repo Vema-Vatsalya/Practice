@@ -39,3 +39,8 @@ diff --git a/file3.txt b/file3.txt
 @@ -0,0 +1 @@
 +Staged content
 This shows changes that are staged but not yet com
+
+
+
+
+version 3
